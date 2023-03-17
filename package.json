@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
+  },
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "name": "talktome",
+  "version": "1.0.0",
+  "main": "script.js",
+  "author": "Sophit Michelle Oeschger",
+  "license": "ISC",
+  "description": ""
+}
